@@ -1,0 +1,2 @@
+# golog
+Golang Log
