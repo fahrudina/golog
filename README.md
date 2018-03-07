@@ -1,7 +1,5 @@
 # golog
-[![Go Report Card](https://goreportcard.com/badge/github.com/fahrudina/golog)](https://goreportcard.com/report/github.com/fahrudina/golog)
-
-Golang Log
+Golang Log [![Go Report Card](https://goreportcard.com/badge/github.com/fahrudina/golog)](https://goreportcard.com/report/github.com/fahrudina/golog)
 
 ```go
 package main
