@@ -1,4 +1,6 @@
 # golog
+[![Go Report Card](https://goreportcard.com/badge/github.com/fahrudina/golog)](https://goreportcard.com/report/github.com/fahrudina/golog)
+
 Golang Log
 
 ```go
